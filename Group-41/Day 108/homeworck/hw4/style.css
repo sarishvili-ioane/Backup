@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.task {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+button {
+    padding: 8px 15px;
+    margin: 5px;
+}
+#timeDisplay {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+#stopwatch {
+    font-size: 20px;
+    margin: 10px 0;
+}
+#timer {
+    font-size: 20px;
+    margin: 10px 0;
+}
